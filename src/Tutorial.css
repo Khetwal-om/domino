@@ -1,0 +1,10 @@
+.tutorial {
+  margin: 1rem;
+}
+.flashcard {
+  margin: 2rem;
+  width: 748px;
+}
+.flashcard__question {
+  margin: 0.4rem;
+}
